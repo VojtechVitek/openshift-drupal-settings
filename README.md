@@ -1,3 +1,9 @@
+# TESTING .settings repository for Drupal
+
+This repository should be a git submodule of the upstream Drupal git repository itself.
+
+    git submodule add https://github.com/VojtechVitek/openshift-drupal-settings.git .openshift/
+
 Drupal on OpenShift
 ===================
 
